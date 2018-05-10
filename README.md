@@ -1,6 +1,6 @@
 # Perl_Euler_Practice
 I have to work with Perl Legacy Code, so I put myself through a mini perl bootcamp by doing *parts* of Euler problems:  
-1)https://projecteuler.net/problem=1  
+1)Three_and_Five.pl: https://projecteuler.net/problem=1  
 2)https://projecteuler.net/problem=4  
 3)https://projecteuler.net/problem=10  
 4)https://projecteuler.net/problem=2  
