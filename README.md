@@ -8,8 +8,6 @@ I have to work with Perl Legacy Code, so I put myself through a mini perl bootca
 5)  https://projecteuler.net/problem=48  
 6)  https://projecteuler.net/problem=45  
 7)  https://projecteuler.net/problem=34  
-8)  WIP  
-9)  WIP  
-10) WIP  
+8)  https://projecteuler.net/problem=22
   
 The above list is in the same order as I did the problems  
