@@ -6,7 +6,7 @@ I have to work with Perl Legacy Code, so I put myself through a mini perl bootca
 3)  Sum_Primes.pl: https://projecteuler.net/problem=10  
 4)  Even_Fib.pl: https://projecteuler.net/problem=2  
 5)  self_powers.pl: https://projecteuler.net/problem=48  
-6)  https://projecteuler.net/problem=45  
+6)  TriPentHex.pl: https://projecteuler.net/problem=45  
 7)  https://projecteuler.net/problem=34  
 8)  https://projecteuler.net/problem=22
   
